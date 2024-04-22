@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Data-Scraping-and-Data-Analysis
+Version: 0.0.0
+Author: Richie
+Author-email: rishisutar183@gmail.com
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Requires-Dist: requests
+Requires-Dist: BeautifulSoup4
+Requires-Dist: nltk
