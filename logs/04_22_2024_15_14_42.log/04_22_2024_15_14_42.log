@@ -1,7 +1,0 @@
-[ 2024-04-22 15:14:43,581 ] 14 root - INFO - Excel file loaded successfully.
-[ 2024-04-22 15:14:43,581 ] 33 root - INFO - Created extracted_text folder
-[ 2024-04-22 15:17:25,777 ] 63 root - INFO - Failed to fetch data from https://insights.blackcoffer.com/how-neural-networks-can-be-applied-in-various-areas-in-the-future/ : blackassign0036
-[ 2024-04-22 15:17:59,956 ] 63 root - INFO - Failed to fetch data from https://insights.blackcoffer.com/covid-19-environmental-impact-for-the-future/ : blackassign0049
-[ 2024-04-22 15:19:45,607 ] 65 root - INFO - Data Scraping Done.....
-[ 2024-04-22 15:19:47,724 ] 62 root - INFO - Removed Stopwords from Extracted Text files and store files in stopword_removed directory
-[ 2024-04-22 15:20:05,981 ] 151 root - INFO - Analysis results saved to {output_file}
