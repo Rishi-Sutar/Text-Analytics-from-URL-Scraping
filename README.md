@@ -21,6 +21,35 @@ Make sure to place the Excel file containing URLs and their associated IDs in th
 
 ## Folder Structure
 
-- `src/components`: Contains the main modules of the project.
-- `artifacts`: Stores the extracted text, cleaned text, stopwords, and analysis output.
-
+Data Scraper and Analysis Project
+│
+├── README.md
+├── main.py
+├── requirements.txt
+├── setup.py
+├── analysis_results.xlsx
+├── logs/
+│   └── (log files)
+├── src/
+│   └── components/
+│       ├── data_scraper.py
+│       ├── data_cleaner.py
+│       ├── data_analysis.py
+│       ├── logger.py
+│       └── exception.py
+├── StopWords/
+│   ├── StopWords_Auditor.txt
+│   ├── StopWords_Currencies.txt
+│   ├── StopWords_DatesandNumbers.txt
+│   ├── StopWords_Generic.txt
+│   ├── StopWords_GenericLong.txt
+│   ├── StopWords_Geographic.txt
+│   └── StopWords_Names.txt
+└── artifacts/
+    ├── extracted_text/
+    │   └── (scraped text files)
+    ├── removed_stopword/
+    │   └── (text files with stopwords removed)
+    └── MasterDictionary/
+        ├── negative-words.txt
+        └── positive-words.txt
