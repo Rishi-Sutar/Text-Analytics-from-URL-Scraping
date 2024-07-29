@@ -6,7 +6,7 @@ This project is designed to scrape data from URLs specified in an Excel file, cl
 
 1. Create Conda Environment: Begin by creating a Conda environment with Python version 3.8.0.
 
-    ''' conda create --name data-analysis python=3.8.0 '''
+    ```conda create --name data-analysis python=3.8.0```
 
 2. Install Dependencies: Install all required packages by running the following command:
 
