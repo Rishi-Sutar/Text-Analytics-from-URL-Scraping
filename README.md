@@ -27,7 +27,7 @@ Once the environment is set up and dependencies are installed, follow these step
 - artifacts/removed_stopwords/: Stores cleaned text files.
 - artifacts/stopwords.txt: Contains the list of stopwords.
 
-#Additional Notes
+## Additional Notes
 
 - Make sure to provide the Excel file with the necessary columns (url_id, URL) in the specified format for proper execution.
 - Ensure that the URLs provided in the Excel file are accessible for data scraping.
