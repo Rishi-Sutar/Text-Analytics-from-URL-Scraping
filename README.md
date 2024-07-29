@@ -10,7 +10,7 @@ This project is designed to scrape data from URLs specified in an Excel file, cl
 
 2. Install Dependencies: Install all required packages by running the following command:
 
-    pip install -r requirements.txt
+    ```pip install -r requirements.txt```
 
 ## Running the Program
 
@@ -18,7 +18,7 @@ Once the environment is set up and dependencies are installed, follow these step
 
 1. Run main.py: Execute the main.py file to run all modules in sequence. This script will scrape data from URLs provided in the Excel file, clean the extracted text, and perform analysis on the cleaned data. 
 
-    python main.py
+    ```python main.py```
 
 ## Folder Structure
 
